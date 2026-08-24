@@ -20,7 +20,7 @@ leaves SMS Settings behind, still working.
 ## Install
 
 ```
-bench get-app https://github.com/mobilesasa/frappe
+bench get-app https://github.com/mobilesasa/frappe-sms
 bench --site yoursite install-app mobilesasa_integration
 ```
 
