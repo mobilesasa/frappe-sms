@@ -1,0 +1,6 @@
+app_name = "mobilesasa_integration"
+app_title = "Mobilesasa Integration"
+app_publisher = "Mobile Sasa"
+app_description = "Mobile Sasa SMS for Frappe / ERPNext: one-click SMS Settings, test send, balance"
+app_email = "support@mobilesasa.com"
+app_license = "MIT"

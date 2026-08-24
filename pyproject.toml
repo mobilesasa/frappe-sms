@@ -1,0 +1,11 @@
+[project]
+name = "mobilesasa_integration"
+authors = [{ name = "Mobile Sasa", email = "support@mobilesasa.com" }]
+description = "Mobile Sasa SMS for Frappe / ERPNext: one-click SMS Settings, test send, balance"
+requires-python = ">=3.10"
+readme = "README.md"
+dynamic = ["version"]
+
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
